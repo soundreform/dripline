@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "cStandard": "c11",
+      "compilerPath": "arm-none-eabi-g++",
+      "cppStandard": "c++14",
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE",
+        "STM32H750xx",
+        "USE_DAISYSP_LGPL"
+      ],
+      "includePath": [
+        "${workspaceFolder}/../**",
+        "${workspaceFolder}/../../vendor/libDaisy/**",
+        "${workspaceFolder}/../../lib/DaisySP/**",
+        "${workspaceFolder}/../../src/**"
+      ],
+      "name": "Linux"
+    }
+  ],
+  "version": 4
+}

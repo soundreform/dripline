@@ -1,0 +1,6 @@
+[submodule "vendor/libDaisy"]
+	path = vendor/libDaisy
+	url = https://github.com/electro-smith/libDaisy.git
+[submodule "vendor/DaisySP"]
+	path = vendor/DaisySP
+	url = https://github.com/electro-smith/DaisySP.git

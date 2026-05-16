@@ -1,0 +1,10 @@
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+BasedOnStyle: LLVM
+BreakTemplateDeclarations: Yes
+ColumnLimit: 180
+InsertBraces: true
+IndentWidth: 4
+PackConstructorInitializers: Never
+TabWidth: 4
+UseTab: Never

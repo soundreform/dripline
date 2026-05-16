@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "cStandard": "c11",
+      "compilerPath": "arm-none-eabi-g++",
+      "cppStandard": "c++14",
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE", "STM32H750xx"],
+      "includePath": [
+        "${workspaceFolder}/src/**",
+        "${workspaceFolder}/vendor/libDaisy/**",
+        "${workspaceFolder}/vendor/DaisySP/**"
+      ],
+      "name": "Mac"
+    }
+  ],
+  "version": 4
+}
